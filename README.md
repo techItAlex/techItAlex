@@ -84,7 +84,7 @@ I'm an IT student interested in understanding how software is built, deployed, a
 
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
-## `03` — Selected Projects
+<!--## `03` — Selected Projects
 
 <div align="center">
 
@@ -108,7 +108,7 @@ I'm an IT student interested in understanding how software is built, deployed, a
 
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
-## `04` — GitHub Activity
+## `03` — GitHub Activity
 
 <div align="center">
 
