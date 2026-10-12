@@ -122,7 +122,7 @@ I'm an IT student interested in understanding how software is built, deployed, a
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/3B82F6/techItAlex" alt="GitHub contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/39D353/techItAlex" alt="GitHub contribution graph" width="100%"/>
 
 </div>
 
