@@ -26,52 +26,27 @@
 
 ---
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<!-- ABOUT ME -->
 
-## `01` — About Me
+<h3 align="left">About Me 👨‍💻</h3>
 
-```yaml
-name: Alex
-role: 3rd-Year IT Student
-interests:
-  - Software Development
-  - Cloud Computing
-  - AI Engineering
-currently_exploring:
-  - AWS & Cloud Infrastructure
-  - Full-Stack Development
-  - AI-Powered Applications
-mindset: Learn by building
-```
+🎓 I'm a 3rd-year Information Technology student.
 
-I'm an IT student interested in understanding how software is built, deployed, and maintained. I enjoy experimenting with new technologies, building practical projects, and turning what I learn into something useful.
+💻 Interested in software development, cloud computing, and AI engineering.
 
-**My goal:** Grow into a developer who can build reliable applications and understand the infrastructure behind them.
+☁️ Exploring AWS and cloud infrastructure.
 
----
+🛠️ I enjoy building projects and learning new technologies through hands-on experience.
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+🎯 Currently working on improving my development and cloud engineering skills.
 
-## `02` — My Tech Stack
+<!-- TECH STACK -->
 
-<div align="center">
+<h3 align="left">Languages and Tools ⚙️</h3>
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python&theme=dark" alt="Programming languages"/>
-
-**FRAMEWORKS & DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,reactnative,git,github&theme=dark" alt="Development tools"/>
-
-**CLOUD, DATABASES & INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,mysql,postgres,supabase,figma&theme=dark" alt="Cloud and database technologies"/>
-
-</div>
-
----
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,java,python,mysql,postgres,git,github,docker,aws&theme=dark" alt="Technology stack"/>
+</p>
 <!-- ═══════════════════ PROJECTS ═══════════════════ -->
 
 ## `03` — Selected Projects
