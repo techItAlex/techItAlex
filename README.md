@@ -136,9 +136,6 @@ I'm an IT student interested in understanding how software is built, deployed, a
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=techItAlex&hide_border=true&background=090303&ring=C58B35&fire=FF3B30&currStreakLabel=FF6B61&sideLabels=F5D7B5&dates=9B7777&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=650B10" alt="GitHub contribution streak"/>
-
-<br/><br/>
 
 <img src="https://ghchart.rshah.org/FF3B30/techItAlex" alt="Red GitHub contribution graph" width="100%"/>
 
