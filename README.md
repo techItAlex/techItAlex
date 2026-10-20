@@ -136,9 +136,6 @@ I'm an IT student interested in understanding how software is built, deployed, a
 
 <br/><br/>
 
-
-<img src="https://ghchart.rshah.org/FF3B30/techItAlex" alt="Red GitHub contribution graph" width="100%"/>
-
 </div>
 
 ---
