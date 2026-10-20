@@ -134,8 +134,6 @@ I'm an IT student interested in understanding how software is built, deployed, a
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techItAlex&layout=compact&hide_border=true&bg_color=090303&title_color=FF3B30&text_color=FFF0E0&langs_count=8" alt="Most-used languages"/>
 
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=techItAlex&theme=dark&background=090303&border=8F1720&stroke=8F1720&ring=FF3B30&fire=C58B35&currStreakNum=FFF0E0&sideNums=FFF0E0&currStreakLabel=FF3B30&sideLabels=FFF0E0&dates=C58B35&hide_border=true" alt="GitHub streak statistics" />
 
 
