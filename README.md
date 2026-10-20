@@ -171,8 +171,6 @@ I'm an IT student interested in understanding how software is built, deployed, a
 
 <code>/* Learn. Build. Break. Debug. Repeat. */</code>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050303,25:260606,50:650B10,75:A71920,100:160304&height=120&section=footer&animation=twinkling" width="100%" alt="Crimson dragon footer"/>
 
 </div>
