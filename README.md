@@ -9,8 +9,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Alex%20%2F%20techItAlex&fontSize=52&fontColor=FFF4E8&fontAlignY=36&desc=SOFTWARE%20DEVELOPMENT%20%20%E2%80%A2%20%20CLOUD%20%20%E2%80%A2%20%20AI&descSize=15&descAlignY=55&animation=twinkling&color=0:050303,25:260606,50:650B10,75:A71920,100:160304" alt="Crimson dragon developer banner"/>
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=600&color=FF3B30&center=true&vCenter=true&width=700&height=55&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+ACCESSING+CLOUD+INFRASTRUCTURE...;%3E+BUILDING+SYSTEMS+%26+APPLICATIONS...;%3E+STATUS%3A+ALWAYS+LEARNING_" alt="Animated terminal introduction"/>
 
 <br/>
